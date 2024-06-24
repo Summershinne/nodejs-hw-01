@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "dbd8001f-251e-495e-b395-39786fe7f12c",
+    "name": "Claudia O'Kon",
+    "phone": "(803) 711-5534 x6997",
+    "email": "Beatrice_Kulas@gmail.com",
+    "job": "Chief Directives Coordinator"
+  },
+  {
+    "id": "7eb96e74-f1e3-49d2-806b-86c32bd29fde",
+    "name": "Gail Kris",
+    "phone": "238-320-2826 x784",
+    "email": "Jakob.Kozey@hotmail.com",
+    "job": "Future Applications Director"
+  },
+  {
+    "id": "bd509454-75ee-41df-a9c3-f22b53e696f7",
+    "name": "Dr. Pedro Hane",
+    "phone": "434-397-9684 x38459",
+    "email": "Eddie_Block34@gmail.com",
+    "job": "Chief Brand Manager"
+  }
+]
